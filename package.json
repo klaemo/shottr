@@ -1,0 +1,24 @@
+{
+  "name": "shottr",
+  "version": "1.0.0",
+  "description": "Periodically take screenshots of webpages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/klaemo/shottr.git"
+  },
+  "keywords": [
+    "screenshot",
+    "archive",
+    "phantom"
+  ],
+  "author": "Clemens Stolle <klaemo@fastmail.fm>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/klaemo/shottr/issues"
+  },
+  "homepage": "https://github.com/klaemo/shottr"
+}
